@@ -1,6 +1,5 @@
-package ControleDeFluxo;
+package Básico.Excecao.ControleDeFluxo;
 
-import java.nio.Buffer;
 import java.util.Scanner;
 
 public class SwitchCase {

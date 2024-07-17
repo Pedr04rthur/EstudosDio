@@ -1,4 +1,4 @@
-package Excecao;
+package Básico.Excecao;
 
 public class BusinessExceptions extends RuntimeException{
     public BusinessExceptions(String msg){

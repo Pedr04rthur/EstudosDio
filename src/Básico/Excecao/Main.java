@@ -1,4 +1,4 @@
-package Excecao;
+package Básico.Excecao;
 
 import java.util.Locale;
 import java.util.Scanner;

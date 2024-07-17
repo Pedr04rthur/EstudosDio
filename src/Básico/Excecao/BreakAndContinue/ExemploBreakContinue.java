@@ -1,4 +1,4 @@
-package BreakAndContinue;
+package Básico.Excecao.BreakAndContinue;
 
 public class ExemploBreakContinue {
     public static void main(String[] args) {

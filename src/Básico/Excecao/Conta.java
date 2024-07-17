@@ -1,4 +1,4 @@
-package Excecao;
+package Básico.Excecao;
 
 public class Conta {
     private int numberAccout = 8080;

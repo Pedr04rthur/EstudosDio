@@ -1,4 +1,4 @@
-package ControleDeFluxo;
+package Básico.Excecao.ControleDeFluxo;
 
 public class ResultadoEscolar {
     public static void main(String[] args) {

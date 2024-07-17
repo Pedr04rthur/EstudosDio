@@ -1,6 +1,4 @@
-package Excecao;
-
-import com.sun.security.jgss.GSSUtil;
+package Básico.Excecao;
 
 import java.util.InputMismatchException;
 import java.util.Locale;
