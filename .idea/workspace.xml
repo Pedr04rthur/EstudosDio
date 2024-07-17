@@ -4,15 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae29ee73-9a67-481c-a847-83e9bd45de20" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ControleDeFluxo/CondicaoTernaria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ControleDeFluxo/CondicionalEncadeada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ControleDeFluxo/ControleDeFluxo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ControleDeFluxo/ResultadoEscolar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ControleDeFluxo/SwitchCase.java" afterDir="false" />
+    <list default="true" id="ae29ee73-9a67-481c-a847-83e9bd45de20" name="Changes" comment="atualizando as files">
+      <change afterPath="$PROJECT_DIR$/src/BreakAndContinue/ExemploBreakContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstruturaRepeticao/ExemploFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstruturaRepeticao/ForArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Excecao/BusinessExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Excecao/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Excecao/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Excecao/Tratamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tarefas/DesafioOne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EstruturaRepeticao/Lacos.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +44,14 @@
     "Application.CondicaoTernaria.executor": "Run",
     "Application.CondicionalEncadeada.executor": "Run",
     "Application.ControleDeFluxo.executor": "Debug",
+    "Application.DesafioOne.executor": "Run",
+    "Application.ExemploBreakContinue.executor": "Run",
+    "Application.ExemploFor.executor": "Debug",
+    "Application.ForArray.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.SwitchCase.executor": "Run",
+    "Application.Tratamento.executor": "Run",
+    "Application.TryCatch.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -90,6 +99,19 @@
       <option name="presentableId" value="Default" />
       <updated>1720097765274</updated>
     </task>
+    <task id="LOCAL-00001" summary="atualizando as files">
+      <option name="closed" value="true" />
+      <created>1720527002164</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720527002164</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="atualizando as files" />
+    <option name="LAST_COMMIT_MESSAGE" value="atualizando as files" />
   </component>
 </project>
