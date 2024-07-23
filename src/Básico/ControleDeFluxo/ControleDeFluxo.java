@@ -1,4 +1,4 @@
-package Básico.Excecao.ControleDeFluxo;
+package Básico.ControleDeFluxo;
 
 public class ControleDeFluxo {
 

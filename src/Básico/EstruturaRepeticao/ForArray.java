@@ -1,4 +1,4 @@
-package Básico.Excecao.EstruturaRepeticao;
+package Básico.EstruturaRepeticao;
 
 public class ForArray {
     public static void main(String[] args) {

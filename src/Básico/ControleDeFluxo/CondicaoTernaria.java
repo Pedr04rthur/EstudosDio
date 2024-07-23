@@ -1,4 +1,4 @@
-package Básico.Excecao.ControleDeFluxo;
+package Básico.ControleDeFluxo;
 
 import java.util.Scanner;
 

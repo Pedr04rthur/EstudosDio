@@ -5,21 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae29ee73-9a67-481c-a847-83e9bd45de20" name="Changes" comment="atualizando as files">
-      <change afterPath="$PROJECT_DIR$/src/POO/EstadoBrasileiro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/SistemaIbge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/List/Tarefa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Herança/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Herança/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Herança/Moto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Herança/Veiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Interface/Copiadora/Copiadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Interface/Copiadora/Xerox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Interface/Digitalizadora/Digitalizadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Interface/Digitalizadora/Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Interface/Empresa/Empresa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Interface/Impressora/Impressora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Interface/Impressora/Laserjet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Interface/Multificional/EquipamentoMultifucional.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BreakAndContinue/ExemploBreakContinue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Básico/Excecao/BreakAndContinue/ExemploBreakContinue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ControleDeFluxo/CondicaoTernaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Básico/Excecao/ControleDeFluxo/CondicaoTernaria.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ControleDeFluxo/CondicionalEncadeada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Básico/Excecao/ControleDeFluxo/CondicionalEncadeada.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ControleDeFluxo/ControleDeFluxo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Básico/Excecao/ControleDeFluxo/ControleDeFluxo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ControleDeFluxo/ResultadoEscolar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Básico/Excecao/ControleDeFluxo/ResultadoEscolar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ControleDeFluxo/SwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Básico/Excecao/ControleDeFluxo/SwitchCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EstruturaRepeticao/ExemploFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Básico/Excecao/EstruturaRepeticao/ExemploFor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EstruturaRepeticao/ForArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Básico/Excecao/EstruturaRepeticao/ForArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Excecao/BusinessExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Básico/Excecao/BusinessExceptions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Excecao/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Básico/Excecao/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Excecao/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Básico/Excecao/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Excecao/Tratamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Básico/Excecao/Tratamento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Básico/Excecao/BreakAndContinue/ExemploBreakContinue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Básico/BreakAndContinue/ExemploBreakContinue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Básico/Excecao/ControleDeFluxo/CondicaoTernaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Básico/ControleDeFluxo/CondicaoTernaria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Básico/Excecao/ControleDeFluxo/CondicionalEncadeada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Básico/ControleDeFluxo/CondicionalEncadeada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Básico/Excecao/ControleDeFluxo/ControleDeFluxo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Básico/ControleDeFluxo/ControleDeFluxo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Básico/Excecao/ControleDeFluxo/ResultadoEscolar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Básico/ControleDeFluxo/ResultadoEscolar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Básico/Excecao/ControleDeFluxo/SwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Básico/ControleDeFluxo/SwitchCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Básico/Excecao/EstruturaRepeticao/ExemploFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Básico/EstruturaRepeticao/ExemploFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Básico/Excecao/EstruturaRepeticao/ForArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Básico/EstruturaRepeticao/ForArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,26 +51,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CondicaoTernaria.executor": "Run",
-    "Application.CondicionalEncadeada.executor": "Run",
-    "Application.ControleDeFluxo.executor": "Debug",
-    "Application.DesafioOne.executor": "Run",
-    "Application.ExemploBreakContinue.executor": "Run",
-    "Application.ExemploFor.executor": "Debug",
-    "Application.ForArray.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.SistemaIbge.executor": "Run",
-    "Application.SwitchCase.executor": "Run",
-    "Application.Tratamento.executor": "Run",
-    "Application.TryCatch.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Auto.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CondicaoTernaria.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CondicionalEncadeada.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ControleDeFluxo.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.DesafioOne.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Empresa.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExemploBreakContinue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExemploFor.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ForArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SistemaIbge.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwitchCase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tratamento.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TryCatch.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Collections" />
+      <recent name="Collecti.List" />
+      <recent name="POO" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
       <option name="appName" />
@@ -121,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721219787434</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="atualizando as files">
+      <option name="closed" value="true" />
+      <created>1721230215239</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721230215239</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
