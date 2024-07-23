@@ -4,29 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae29ee73-9a67-481c-a847-83e9bd45de20" name="Changes" comment="atualizando as files">
-      <change afterPath="$PROJECT_DIR$/src/Collections/List/Tarefa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/Herança/Auto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/Herança/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/Herança/Moto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/Herança/Veiculo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/Interface/Copiadora/Copiadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/Interface/Copiadora/Xerox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/Interface/Digitalizadora/Digitalizadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/Interface/Digitalizadora/Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/Interface/Empresa/Empresa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/Interface/Impressora/Impressora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/Interface/Impressora/Laserjet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/Interface/Multificional/EquipamentoMultifucional.java" afterDir="false" />
+    <list default="true" id="ae29ee73-9a67-481c-a847-83e9bd45de20" name="Changes" comment="atualizando as files and packages">
+      <change afterPath="$PROJECT_DIR$/src/Collections/List/OperacoesBasicas/ListaTarefa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/List/OperacoesBasiscas2/CarrinhoDeCompras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/List/OperacoesBasiscas2/Item.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Básico/Excecao/BreakAndContinue/ExemploBreakContinue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Básico/BreakAndContinue/ExemploBreakContinue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Básico/Excecao/ControleDeFluxo/CondicaoTernaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Básico/ControleDeFluxo/CondicaoTernaria.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Básico/Excecao/ControleDeFluxo/CondicionalEncadeada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Básico/ControleDeFluxo/CondicionalEncadeada.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Básico/Excecao/ControleDeFluxo/ControleDeFluxo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Básico/ControleDeFluxo/ControleDeFluxo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Básico/Excecao/ControleDeFluxo/ResultadoEscolar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Básico/ControleDeFluxo/ResultadoEscolar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Básico/Excecao/ControleDeFluxo/SwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Básico/ControleDeFluxo/SwitchCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Básico/Excecao/EstruturaRepeticao/ExemploFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Básico/EstruturaRepeticao/ExemploFor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Básico/Excecao/EstruturaRepeticao/ForArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Básico/EstruturaRepeticao/ForArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collections/List/Tarefa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/List/OperacoesBasicas/Tarefa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,28 +34,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Auto.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CondicaoTernaria.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CondicionalEncadeada.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ControleDeFluxo.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.DesafioOne.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Empresa.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExemploBreakContinue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExemploFor.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.ForArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SistemaIbge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SwitchCase.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Tratamento.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TryCatch.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Auto.executor": "Run",
+    "Application.CarrinhoDeCompras.executor": "Run",
+    "Application.CondicaoTernaria.executor": "Run",
+    "Application.CondicionalEncadeada.executor": "Run",
+    "Application.ControleDeFluxo.executor": "Debug",
+    "Application.DesafioOne.executor": "Run",
+    "Application.Empresa.executor": "Run",
+    "Application.ExemploBreakContinue.executor": "Run",
+    "Application.ExemploFor.executor": "Debug",
+    "Application.ForArray.executor": "Run",
+    "Application.ListaTarefa.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.SistemaIbge.executor": "Run",
+    "Application.SwitchCase.executor": "Run",
+    "Application.Tratamento.executor": "Run",
+    "Application.TryCatch.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Collections" />
@@ -145,11 +130,20 @@
       <option name="project" value="LOCAL" />
       <updated>1721230215239</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="atualizando as files and packages">
+      <option name="closed" value="true" />
+      <created>1721734875433</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721734875433</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="atualizando as files" />
-    <option name="LAST_COMMIT_MESSAGE" value="atualizando as files" />
+    <MESSAGE value="atualizando as files and packages" />
+    <option name="LAST_COMMIT_MESSAGE" value="atualizando as files and packages" />
   </component>
 </project>
