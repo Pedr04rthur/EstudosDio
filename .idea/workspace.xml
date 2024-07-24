@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae29ee73-9a67-481c-a847-83e9bd45de20" name="Changes" comment="atualizando as files and packages">
-      <change afterPath="$PROJECT_DIR$/src/Collections/List/PesquisaLista/CatologoLivros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/List/PesquisaLista/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/List/Ordenacao/ComparatorPorAltura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/List/Ordenacao/OrdenacaoPessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/List/Ordenacao/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/List/PesquisaLista2/SomaNumeros.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +49,9 @@
     "Application.ForArray.executor": "Run",
     "Application.ListaTarefa.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.OrdenacaoPessoa.executor": "Run",
     "Application.SistemaIbge.executor": "Run",
+    "Application.SomaNumeros.executor": "Run",
     "Application.SwitchCase.executor": "Run",
     "Application.Tratamento.executor": "Run",
     "Application.TryCatch.executor": "Run",
@@ -58,6 +62,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Collections.List.PesquisaLista2" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Collections" />
       <recent name="Collecti.List" />
@@ -145,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721743667894</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="atualizando as files and packages">
+      <option name="closed" value="true" />
+      <created>1721793574019</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721793574019</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
