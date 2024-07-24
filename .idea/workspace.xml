@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae29ee73-9a67-481c-a847-83e9bd45de20" name="Changes" comment="atualizando as files and packages">
-      <change afterPath="$PROJECT_DIR$/src/Collections/List/OperacoesBasicas/ListaTarefa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/List/OperacoesBasiscas2/CarrinhoDeCompras.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/List/OperacoesBasiscas2/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/List/PesquisaLista/CatologoLivros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/List/PesquisaLista/Livro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/List/Tarefa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/List/OperacoesBasicas/Tarefa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +36,7 @@
   "keyToString": {
     "Application.Auto.executor": "Run",
     "Application.CarrinhoDeCompras.executor": "Run",
+    "Application.CatologoLivros.executor": "Run",
     "Application.CondicaoTernaria.executor": "Run",
     "Application.CondicionalEncadeada.executor": "Run",
     "Application.ControleDeFluxo.executor": "Debug",
@@ -138,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721734875433</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="atualizando as files and packages">
+      <option name="closed" value="true" />
+      <created>1721743667894</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721743667894</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
