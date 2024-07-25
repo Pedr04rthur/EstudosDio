@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae29ee73-9a67-481c-a847-83e9bd45de20" name="Changes" comment="atualizando as files and packages">
-      <change afterPath="$PROJECT_DIR$/src/Collections/List/Ordenacao/ComparatorPorAltura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/List/Ordenacao/OrdenacaoPessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/List/Ordenacao/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/List/PesquisaLista2/SomaNumeros.java" afterDir="false" />
+    <list default="true" id="ae29ee73-9a67-481c-a847-83e9bd45de20" name="Changes" comment="Feito exercício de ordenação em java">
+      <change afterPath="$PROJECT_DIR$/src/Collections/List/Ordenacao2/OrdenacaoNumeros.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +46,7 @@
     "Application.ForArray.executor": "Run",
     "Application.ListaTarefa.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.OrdenacaoNumeros.executor": "Run",
     "Application.OrdenacaoPessoa.executor": "Run",
     "Application.SistemaIbge.executor": "Run",
     "Application.SomaNumeros.executor": "Run",
@@ -160,12 +158,21 @@
       <option name="project" value="LOCAL" />
       <updated>1721793574019</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Feito exercício de ordenação em java">
+      <option name="closed" value="true" />
+      <created>1721839123340</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1721839123340</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="atualizando as files" />
     <MESSAGE value="atualizando as files and packages" />
-    <option name="LAST_COMMIT_MESSAGE" value="atualizando as files and packages" />
+    <MESSAGE value="Feito exercício de ordenação em java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feito exercício de ordenação em java" />
   </component>
 </project>
