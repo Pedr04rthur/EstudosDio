@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae29ee73-9a67-481c-a847-83e9bd45de20" name="Changes" comment="Feito exercício de ordenação em java">
-      <change afterPath="$PROJECT_DIR$/src/Collections/List/Ordenacao2/OrdenacaoNumeros.java" afterDir="false" />
+    <list default="true" id="ae29ee73-9a67-481c-a847-83e9bd45de20" name="Changes" comment="Aprendendo a usar método sort do collections">
+      <change afterPath="$PROJECT_DIR$/src/Collections/Set/OperacoesBasica2/ConjuntoPalavrasUnicas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/Set/OperacoesBasica2/Gabarito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/Set/OperacoesBasicas/ConjuntoConvidados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/Set/OperacoesBasicas/Convidado.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,12 +41,15 @@
     "Application.CatologoLivros.executor": "Run",
     "Application.CondicaoTernaria.executor": "Run",
     "Application.CondicionalEncadeada.executor": "Run",
+    "Application.ConjuntoConvidados.executor": "Run",
+    "Application.ConjuntoPalavrasUnicas.executor": "Run",
     "Application.ControleDeFluxo.executor": "Debug",
     "Application.DesafioOne.executor": "Run",
     "Application.Empresa.executor": "Run",
     "Application.ExemploBreakContinue.executor": "Run",
     "Application.ExemploFor.executor": "Debug",
     "Application.ForArray.executor": "Run",
+    "Application.Gabarito.executor": "Run",
     "Application.ListaTarefa.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.OrdenacaoNumeros.executor": "Run",
@@ -166,13 +172,22 @@
       <option name="project" value="LOCAL" />
       <updated>1721839123340</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Aprendendo a usar método sort do collections">
+      <option name="closed" value="true" />
+      <created>1721873959138</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1721873959138</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="atualizando as files" />
     <MESSAGE value="atualizando as files and packages" />
     <MESSAGE value="Feito exercício de ordenação em java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feito exercício de ordenação em java" />
+    <MESSAGE value="Aprendendo a usar método sort do collections" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aprendendo a usar método sort do collections" />
   </component>
 </project>
