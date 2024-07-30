@@ -33,11 +33,11 @@ public class ConjuntoPalavrasUnicas {
 
     public void verificarPalavra(String palavra) {
 
-        String verifica;
+
         for (String i : this.conjuntoSet) {
             if (i.equals(palavra)) {
                 System.out.println("Palavra existente");
-                verifica = palavra;
+
 
             }
         }
