@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae29ee73-9a67-481c-a847-83e9bd45de20" name="Changes" comment="Aprendendo sobre set">
-      <change afterPath="$PROJECT_DIR$/src/Collections/Map/AgendaContatos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collections/Map/AgendaContatos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/Map/AgendaContatos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,38 +31,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Auto.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CarrinhoDeCompras.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CatologoLivros.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CondicaoTernaria.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CondicionalEncadeada.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConjuntoConvidados.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConjuntoPalavrasUnicas.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ControleDeFluxo.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.DesafioOne.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Empresa.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExemploBreakContinue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExemploFor.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.ForArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Gabarito.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ListaTarefa.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ListaTarefas.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OrdenacaoNumeros.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OrdenacaoPessoa.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SistemaIbge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SomaNumeros.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SwitchCase.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Tratamento.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TryCatch.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AgendaContatos.executor": "Run",
+    "Application.Auto.executor": "Run",
+    "Application.CarrinhoDeCompras.executor": "Run",
+    "Application.CatologoLivros.executor": "Run",
+    "Application.CondicaoTernaria.executor": "Run",
+    "Application.CondicionalEncadeada.executor": "Run",
+    "Application.ConjuntoConvidados.executor": "Run",
+    "Application.ConjuntoPalavrasUnicas.executor": "Run",
+    "Application.ControleDeFluxo.executor": "Debug",
+    "Application.DesafioOne.executor": "Run",
+    "Application.Empresa.executor": "Run",
+    "Application.ExemploBreakContinue.executor": "Run",
+    "Application.ExemploFor.executor": "Debug",
+    "Application.ForArray.executor": "Run",
+    "Application.Gabarito.executor": "Run",
+    "Application.ListaTarefa.executor": "Run",
+    "Application.ListaTarefas.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.OrdenacaoNumeros.executor": "Run",
+    "Application.OrdenacaoPessoa.executor": "Run",
+    "Application.SistemaIbge.executor": "Run",
+    "Application.SomaNumeros.executor": "Run",
+    "Application.SwitchCase.executor": "Run",
+    "Application.Tratamento.executor": "Run",
+    "Application.TryCatch.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Pedro/Desktop/EstudosDio"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Collections.List.PesquisaLista2" />
@@ -73,7 +75,7 @@
       <recent name="POO" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.AgendaContatos">
     <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
       <option name="appName" />
       <option name="appServicePlanName" />
@@ -104,6 +106,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AgendaContatos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.Map.AgendaContatos" />
+      <module name="EstudosDio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Collections.Map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ListaTarefas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Collections.Set.PesquisaSet2.ListaTarefas" />
       <module name="EstudosDio" />
@@ -119,6 +134,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AgendaContatos" />
         <item itemvalue="Application.ListaTarefas" />
       </list>
     </recent_temporary>

@@ -1,4 +1,4 @@
-package Collections.Map;
+package Collections.Map.OperacoesBasicas;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -39,4 +39,16 @@ public class AgendaContatos {
         return numeroPorNome;
     }
 
+
+    public static void main(String[] args) {
+        AgendaContatos agenda1 = new AgendaContatos();
+
+        agenda1.adicionarContato("Vitoria",839884231);
+        agenda1.adicionarContato("Poliana",839676767);
+        agenda1.adicionarContato("Noemi",834555667);
+        agenda1.adicionarContato("Taina",834343434);
+        agenda1.removerContato("Vitoria");
+        agenda1.exibirContato();
+        System.out.println("SEARCH: " + agenda1.pesquisarNome("Taina"));
+    }
 }
