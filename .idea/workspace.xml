@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae29ee73-9a67-481c-a847-83e9bd45de20" name="Changes" comment="Aprendendo sobre set">
-      <change afterPath="$PROJECT_DIR$/src/Collections/Map/PesquisaMap/EstoquePorduto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/Map/PesquisaMap/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/Map/PesquisaMap2/ContagemPalavras.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +40,7 @@
     "Application.CondicionalEncadeada.executor": "Run",
     "Application.ConjuntoConvidados.executor": "Run",
     "Application.ConjuntoPalavrasUnicas.executor": "Run",
+    "Application.ContagemPalavras.executor": "Run",
     "Application.ControleDeFluxo.executor": "Debug",
     "Application.DesafioOne.executor": "Run",
     "Application.Dicionario.executor": "Run",
