@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae29ee73-9a67-481c-a847-83e9bd45de20" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/tarefas/DesafioStream2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tarefas/RegistroTransacoesBancarias.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +60,7 @@
     "Application.Main.executor": "Run",
     "Application.OrdenacaoNumeros.executor": "Run",
     "Application.OrdenacaoPessoa.executor": "Run",
+    "Application.RegistroTransacoesBancarias.executor": "Run",
     "Application.SistemaIbge.executor": "Run",
     "Application.SomaNumeros.executor": "Run",
     "Application.SwitchCase.executor": "Run",
@@ -82,7 +83,7 @@
       <recent name="POO" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DesafioStream2">
+  <component name="RunManager" selected="Application.RegistroTransacoesBancarias">
     <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
       <option name="appName" />
       <option name="appServicePlanName" />
@@ -119,19 +120,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="StreamAPI.Consumer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ContagemPalavras" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.Map.PesquisaMap2.ContagemPalavras" />
-      <module name="EstudosDio" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Collections.Map.PesquisaMap2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,13 +166,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RegistroTransacoesBancarias" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tarefas.RegistroTransacoesBancarias" />
+      <module name="EstudosDio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tarefas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RegistroTransacoesBancarias" />
         <item itemvalue="Application.DesafioStream2" />
         <item itemvalue="Application.DesafioStream1" />
         <item itemvalue="Application.FunctionExample" />
         <item itemvalue="Application.ConsumerExample" />
-        <item itemvalue="Application.ContagemPalavras" />
       </list>
     </recent_temporary>
   </component>
