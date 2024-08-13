@@ -9,7 +9,7 @@ public class MainContaBancaria {
 
         // TODO: Criar uma nova conta bancária com o saldo inicial
         double saldoInicial = scanner.nextDouble();
-        ContaBancaria conta = new ContaBancaria(saldoInicial);
+        ContaBancariaa conta = new ContaBancariaa(saldoInicial);
 
         // Lê a Entrada com o valor do deposito e aciona o método "depositar"
         double valorDeposito = scanner.nextDouble();
